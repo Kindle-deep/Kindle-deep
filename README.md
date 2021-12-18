@@ -149,14 +149,3 @@ Windows                  5 hrs 1 min         ███████████�
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Kindle-deep&theme=xcode" /></div>
-
-
-
-
-# 🤝 Social
-
-<!-- BiliBili和CSDN数据 -->
-<div align="center">
-  <a href="https://space.bilibili.com/543314783/"><img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/></a>
-</div>
-
