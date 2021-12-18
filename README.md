@@ -73,55 +73,21 @@
 <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kindle-deep&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </p>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
-<br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Kindle-deep&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kindle-deep&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindle-deep&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
-<!-- 最近博客和豆瓣动态 -->
-<table align="center" >
-<tr>
-<td valign="top">    
-
-### 🤹‍♀️ <a href="https://Kindle-deep.github.io/" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-* <a href='https://sunguoqi.com/2021/12/15/Django_04/' target='_blank'>Django 项目部署</a> - 2021-12-15
-* <a href='https://sunguoqi.com/2021/12/14/Django_03/' target='_blank'>Django 自定义后台</a> - 2021-12-14
-* <a href='https://sunguoqi.com/2021/12/10/Django_02/' target='_blank'>Django 自动化测试 && 静态文件的引入</a> - 2021-12-10
-* <a href='https://sunguoqi.com/2021/12/09/Django_01/' target='_blank'>First Django App！</a> - 2021-12-09
-* <a href='https://sunguoqi.com/2021/12/06/Django_00/' target='_blank'>Hello Django！</a> - 2021-12-06
-<!-- END_SECTION:blog -->
-  
-</td>
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>最近在读Python3网络爬虫开发实战 第2版</a> - 2021-12-11
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-</td>
-</tr>
-</table>
 
 
 <!-- wakatime 统计 -->
@@ -182,7 +148,7 @@ Windows                  5 hrs 1 min         ███████████�
 </table>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /></div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Kindle-deep&theme=xcode" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
