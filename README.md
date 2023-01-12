@@ -23,7 +23,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是Kindle deep! 今年初一，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是Kindle deep! 今年初耳，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始的太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
@@ -31,11 +31,7 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
@@ -127,9 +123,9 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 Python                   2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   46.47% 
 Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51% 
-HTML                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
+HTML                     51 mins             █████████████████████░░░░  17.07% 
 Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
+CSS                      11 mins             ██████████████░░░░░░░░░░░   3.86%
 
 🔥 Editors: 
 PyCharm                  2 hrs 50 mins       ██████████████░░░░░░░░░░░   56.73% 
