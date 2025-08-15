@@ -1,5 +1,5 @@
 ## Hello👋
-I'm Chinyuan Tai,a high school sophomore passionate about technology and music. 
+I'm Chinyuan Tai, a high school sophomore passionate about technology and music. 
 ## 🌱 **Currently Exploring**:  
 - Programming (Go/JavaScript)  
 - Open-source contributions
@@ -9,4 +9,4 @@ I'm Chinyuan Tai,a high school sophomore passionate about technology and music.
 📫 Let's connect:
 - Email: chinyuan@knlde.top  
 
-[![Your Stats](https://github-readme-stats.vercel.app/api?username=Kindle-deep&show_icons=true&theme=radical)](https://github.com/Kindle-deep)
+[![Your Stats](https://github-readme-stats.vercel.app/api?username=Kindle-deep&show_icons=true)](https://github.com/Kindle-deep)
